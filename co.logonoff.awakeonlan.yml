@@ -1,6 +1,6 @@
 id: co.logonoff.awakeonlan
 runtime: org.gnome.Platform
-runtime-version: '48'
+runtime-version: '49'
 sdk: org.gnome.Sdk
 command: awakeonlan
 finish-args:
@@ -26,4 +26,4 @@ modules:
   sources:
   - type: git
     url: https://github.com/logonoff/awake-on-lan.git
-    commit: 5257827282d253adef89f94859be2ffee87509be
+    commit: 85fb19954bd6ada49032fb3059531a29ab89cf26
